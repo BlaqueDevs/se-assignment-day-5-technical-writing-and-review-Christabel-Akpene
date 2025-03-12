@@ -2,22 +2,24 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18655110&assignment_repo_type=AssignmentRepo)
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
-For tech experts:
+1. For tech experts:
 - Use industry jargons
 - Focus on technical details
 - Dive into the specifics of the information
 
-For regular folks:
+2. For regular folks:
 - Use simplified language.
 - Avoid technical jargon.
 - Provide high-level overviews with relatable examples.
 - 
 ## 2. What are some strategies to tailor your content to different audience types?
-For tech experts: 
+1. For tech experts: 
 - Use technical terms
 - Focus on problem-solving and solutions
 - Provide detailed analysis.
-For regular folks:
+
+  
+2. For regular folks:
 - Use analogies.
 - Break down concepts into simpler terms.
 - Focus on real-life applications.
